@@ -1,0 +1,1 @@
+//// Created by hadi on 1/24/19.//#ifndef BASE_INIT_H#define BASE_INIT_Hint init();int menu();void draw();void save();#endif //BASE_INIT_H

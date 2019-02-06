@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -rdynamic CMakeFiles/base.dir/src/init.c.o CMakeFiles/base.dir/src/logic.c.o CMakeFiles/base.dir/src/main.c.o CMakeFiles/base.dir/src/map_g.c.o CMakeFiles/base.dir/src/physics.c.o CMakeFiles/base.dir/src/view.c.o  -o base -lm -lSDL2 -lSDL2_gfx 

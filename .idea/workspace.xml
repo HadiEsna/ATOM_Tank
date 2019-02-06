@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="base" targetName="base" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a0bff0b-0ade-4479-aa2e-0c84aa56b43c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.1/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.1/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/C.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/DependInfo.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/build.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/src/init.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/src/init.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/src/logic.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/src/logic.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/src/main.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/src/main.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/src/map_g.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/src/map_g.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/src/physics.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/src/physics.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/src/view.c.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/base.dir/src/view.c.o" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/C.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/src/logic.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/src/main.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/src/physics.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/project_name.dir/src/view.c.o" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/base" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/base" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/base.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/base.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/init.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16296">
+              <caret line="679" column="1" selection-start-line="679" selection-start-column="1" selection-end-line="679" selection-end-column="1" />
+              <folding>
+                <element signature="e#163#3367#0" />
+                <element signature="e#3370#3862#0" />
+                <element signature="e#3864#4375#0" />
+                <element signature="e#4389#6690#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/init.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/physics.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="456">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/globals_structs_const.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1632">
+              <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+              <folding>
+                <element signature="e#98#116#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/logic.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1992">
+              <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2520">
+              <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/view.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/map_g.c">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>501</find>
+      <find>pr</find>
+      <find>prim</find>
+      <find>print</find>
+      <find>rang</find>
+      <find>x</find>
+      <find>100</find>
+      <find>mine</find>
+      <find>hah</find>
+      <find>0</find>
+      <find>shot</find>
+      <find>empt</find>
+      <find>U</find>
+      <find>R</find>
+      <find>= 2</find>
+      <find>20</find>
+      <find>;</find>
+      <find>2000</find>
+      <find>= 3</find>
+      <find>tt</find>
+      <find>ball</find>
+      <find>strc</find>
+      <find>laser.x</find>
+      <find>k</find>
+      <find>.ex</find>
+      <find>.alive</find>
+      <find>x_laser</find>
+      <find>y_laser</find>
+      <find>rgbs</find>
+      <find>.ex = 1</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>box</replace>
+      <replace>box_width</replace>
+      <replace>% 100 +100</replace>
+      <replace>% 100 +150</replace>
+      <replace>extt[0]</replace>
+      <replace>extt[1]</replace>
+      <replace>503</replace>
+      <replace>choose</replace>
+      <replace>40</replace>
+      <replace>U</replace>
+      <replace>D</replace>
+      <replace>R</replace>
+      <replace>L</replace>
+      <replace>shot</replace>
+      <replace>= 3</replace>
+      <replace>100</replace>
+      <replace>=0;</replace>
+      <replace>= 0</replace>
+      <replace>= 1</replace>
+      <replace>= 2</replace>
+      <replace>&amp;tt</replace>
+      <replace>x</replace>
+      <replace>&amp;ball</replace>
+      <replace>x_laser</replace>
+      <replace>0</replace>
+      <replace>1</replace>
+      <replace>2</replace>
+      <replace>2`</replace>
+      <replace>tt[k].x_laser</replace>
+      <replace>tt[k].y_laser</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/hadi.c" />
+        <option value="$PROJECT_DIR$/cmake_linux.txt" />
+        <option value="$PROJECT_DIR$/src/simple_snake.c" />
+        <option value="$PROJECT_DIR$/src/to do list.txt" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/map.txt" />
+        <option value="$PROJECT_DIR$/src/struct.h" />
+        <option value="$PROJECT_DIR$/src/physics.h" />
+        <option value="$PROJECT_DIR$/src/const.h" />
+        <option value="$PROJECT_DIR$/src/view.h" />
+        <option value="$PROJECT_DIR$/src/logic.h" />
+        <option value="$PROJECT_DIR$/src/physics.c" />
+        <option value="$PROJECT_DIR$/src/init.h" />
+        <option value="$PROJECT_DIR$/src/map_g.h" />
+        <option value="$PROJECT_DIR$/src/map_g.c" />
+        <option value="$PROJECT_DIR$/src/logic.c" />
+        <option value="$PROJECT_DIR$/src/view.c" />
+        <option value="$PROJECT_DIR$/src/globals_structs_const.h" />
+        <option value="$PROJECT_DIR$/src/init.c" />
+        <option value="$PROJECT_DIR$/src/s" />
+        <option value="$PROJECT_DIR$/src/main.c" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="27" />
+    <option name="width" value="1920" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="base" type="b2602c69:ProjectViewProjectNode" />
+              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.statistic.project.settings" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="open" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="base" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="base" TARGET_NAME="base" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="base" RUN_TARGET_NAME="base">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a0bff0b-0ade-4479-aa2e-0c84aa56b43c" name="Default Changelist" comment="" />
+      <created>1544790135424</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544790135424</updated>
+      <workItem from="1544790138960" duration="4005000" />
+      <workItem from="1544796716644" duration="604000" />
+      <workItem from="1544879479921" duration="17160000" />
+      <workItem from="1544919506020" duration="345000" />
+      <workItem from="1544920071852" duration="8000" />
+      <workItem from="1544909286031" duration="877000" />
+      <workItem from="1544911884533" duration="174000" />
+      <workItem from="1544942163468" duration="164000" />
+      <workItem from="1544944073929" duration="4799000" />
+      <workItem from="1544950227503" duration="1198000" />
+      <workItem from="1544953976467" duration="989000" />
+      <workItem from="1544958548030" duration="671000" />
+      <workItem from="1544966105237" duration="766000" />
+      <workItem from="1544968981788" duration="569000" />
+      <workItem from="1544969820744" duration="35000" />
+      <workItem from="1544973711493" duration="21447000" />
+      <workItem from="1544997255979" duration="11766000" />
+      <workItem from="1545041106389" duration="15832000" />
+      <workItem from="1545065490378" duration="14462000" />
+      <workItem from="1545091108786" duration="4504000" />
+      <workItem from="1545114683948" duration="6170000" />
+      <workItem from="1545127400216" duration="5963000" />
+      <workItem from="1545140872125" duration="1251000" />
+      <workItem from="1545145956149" duration="504000" />
+      <workItem from="1545149517752" duration="109000" />
+      <workItem from="1545154519779" duration="64000" />
+      <workItem from="1545154858726" duration="608000" />
+      <workItem from="1545156861865" duration="2072000" />
+      <workItem from="1545165252811" duration="7803000" />
+      <workItem from="1545219975674" duration="4961000" />
+      <workItem from="1545229691921" duration="3135000" />
+      <workItem from="1545256749093" duration="107000" />
+      <workItem from="1545311243513" duration="1349000" />
+      <workItem from="1545320089717" duration="536000" />
+      <workItem from="1545324246675" duration="777000" />
+      <workItem from="1545327102174" duration="8174000" />
+      <workItem from="1545323683941" duration="292000" />
+      <workItem from="1545324139974" duration="343000" />
+      <workItem from="1545324778562" duration="600000" />
+      <workItem from="1545325444095" duration="231000" />
+      <workItem from="1545326348141" duration="3660000" />
+      <workItem from="1545339717844" duration="7890000" />
+      <workItem from="1545349779492" duration="7140000" />
+      <workItem from="1545496063433" duration="7639000" />
+      <workItem from="1545508306359" duration="664000" />
+      <workItem from="1545512687100" duration="43000" />
+      <workItem from="1545517277955" duration="493000" />
+      <workItem from="1545517966753" duration="289000" />
+      <workItem from="1545546744210" duration="4270000" />
+      <workItem from="1545559261104" duration="3720000" />
+      <workItem from="1545563695754" duration="3603000" />
+      <workItem from="1545569866906" duration="274000" />
+      <workItem from="1545577686071" duration="1349000" />
+      <workItem from="1545579189236" duration="602000" />
+      <workItem from="1545580482803" duration="358000" />
+      <workItem from="1545580980855" duration="1568000" />
+      <workItem from="1545589184080" duration="3300000" />
+      <workItem from="1545592819238" duration="106000" />
+      <workItem from="1545592975127" duration="14621000" />
+      <workItem from="1545638696849" duration="6485000" />
+      <workItem from="1545647590261" duration="4112000" />
+      <workItem from="1545660215066" duration="5677000" />
+      <workItem from="1545668892844" duration="1026000" />
+      <workItem from="1545670891735" duration="1004000" />
+      <workItem from="1545708630155" duration="281000" />
+      <workItem from="1545709010495" duration="28000" />
+      <workItem from="1545733705162" duration="683000" />
+      <workItem from="1545734858690" duration="1441000" />
+      <workItem from="1545745966857" duration="485000" />
+      <workItem from="1545746527484" duration="1352000" />
+      <workItem from="1545759061553" duration="3102000" />
+      <workItem from="1545765235708" duration="1515000" />
+      <workItem from="1545767981259" duration="22320000" />
+      <workItem from="1545818736509" duration="160000" />
+      <workItem from="1545818917017" duration="1104000" />
+      <workItem from="1545837699297" duration="11733000" />
+      <workItem from="1545861138179" duration="2324000" />
+      <workItem from="1545929018176" duration="1305000" />
+      <workItem from="1545983717851" duration="527000" />
+      <workItem from="1545987362485" duration="733000" />
+      <workItem from="1545999324503" duration="164000" />
+      <workItem from="1546027908291" duration="126000" />
+      <workItem from="1546081643547" duration="569000" />
+      <workItem from="1546083802382" duration="83000" />
+      <workItem from="1546115025868" duration="715000" />
+      <workItem from="1546115760230" duration="4000" />
+      <workItem from="1546119253937" duration="503000" />
+      <workItem from="1546119785494" duration="238000" />
+      <workItem from="1546420683274" duration="136000" />
+      <workItem from="1546430051346" duration="647000" />
+      <workItem from="1546511572992" duration="114000" />
+      <workItem from="1546535306202" duration="42000" />
+      <workItem from="1546611875476" duration="12000" />
+      <workItem from="1546612594676" duration="53000" />
+      <workItem from="1546613435934" duration="227000" />
+      <workItem from="1546781567358" duration="365000" />
+      <workItem from="1546877545379" duration="50000" />
+      <workItem from="1547053318459" duration="286000" />
+      <workItem from="1547056524841" duration="353000" />
+      <workItem from="1547310315165" duration="632000" />
+      <workItem from="1547329875425" duration="291000" />
+      <workItem from="1547772610409" duration="2850000" />
+      <workItem from="1547776263998" duration="102000" />
+      <workItem from="1547779242689" duration="8000" />
+      <workItem from="1547824186587" duration="272000" />
+      <workItem from="1547855089194" duration="727000" />
+      <workItem from="1547899409060" duration="34000" />
+      <workItem from="1547911515959" duration="1566000" />
+      <workItem from="1547915891612" duration="641000" />
+      <workItem from="1547916544423" duration="1261000" />
+      <workItem from="1547930404855" duration="865000" />
+      <workItem from="1547939671759" duration="423000" />
+      <workItem from="1548000756824" duration="953000" />
+      <workItem from="1548278805949" duration="607000" />
+      <workItem from="1548333552106" duration="24000" />
+      <workItem from="1548334226506" duration="133000" />
+      <workItem from="1548335311080" duration="355000" />
+      <workItem from="1548364750671" duration="77000" />
+      <workItem from="1548364919731" duration="2337000" />
+      <workItem from="1548368808240" duration="1964000" />
+      <workItem from="1548370807647" duration="1083000" />
+      <workItem from="1548372072212" duration="1510000" />
+      <workItem from="1548374612450" duration="1113000" />
+      <workItem from="1548375948625" duration="6049000" />
+      <workItem from="1548514611645" duration="2724000" />
+      <workItem from="1548541367426" duration="624000" />
+      <workItem from="1548701237632" duration="1905000" />
+      <workItem from="1548708887076" duration="307000" />
+      <workItem from="1548712051633" duration="1400000" />
+      <workItem from="1548755384027" duration="15182000" />
+      <workItem from="1548793848875" duration="7738000" />
+      <workItem from="1548875260191" duration="2424000" />
+      <workItem from="1548888356203" duration="3628000" />
+      <workItem from="1548893072405" duration="4698000" />
+      <workItem from="1548926249841" duration="25000" />
+      <workItem from="1548934947802" duration="1585000" />
+      <workItem from="1548937199293" duration="274000" />
+      <workItem from="1548947211961" duration="633000" />
+      <workItem from="1548967980244" duration="10021000" />
+      <workItem from="1548985020692" duration="1359000" />
+      <workItem from="1548986423986" duration="1286000" />
+      <workItem from="1549010490379" duration="2226000" />
+      <workItem from="1549018359100" duration="19000" />
+      <workItem from="1549019230764" duration="14000" />
+      <workItem from="1549032964038" duration="3270000" />
+      <workItem from="1549036567595" duration="2000" />
+      <workItem from="1549037253087" duration="35000" />
+      <workItem from="1549047259203" duration="412000" />
+      <workItem from="1549047792733" duration="1589000" />
+      <workItem from="1549075709826" duration="11197000" />
+      <workItem from="1549104378414" duration="83000" />
+      <workItem from="1549104948443" duration="361000" />
+      <workItem from="1549135259252" duration="2067000" />
+      <workItem from="1549137887156" duration="1751000" />
+      <workItem from="1549141715019" duration="6796000" />
+      <workItem from="1549154603437" duration="596000" />
+      <workItem from="1549188483828" duration="902000" />
+      <workItem from="1549281092540" duration="300000" />
+      <workItem from="1549288749004" duration="2073000" />
+      <workItem from="1549366099548" duration="204000" />
+      <workItem from="1549371026722" duration="424000" />
+    </task>
+    <task id="LOCAL-00001" summary="some bugs fixed">
+      <created>1549078132545</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549078132546</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="395108000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1223176" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="0" weight="0.3293348" />
+      <window_info anchor="bottom" id="CMake" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.26666668" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3122222" />
+      <window_info anchor="bottom" id="TeamCity" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32861805" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293348" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3511111" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" weight="0.3288889" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="right" id="Database" order="0" weight="0.09497515" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11748927" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Statistic" order="0" weight="0.3293348" />
+      <window_info anchor="bottom" id="CMake" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" visible="true" weight="0.17555556" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3122222" />
+      <window_info anchor="bottom" id="TeamCity" order="5" />
+      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32861805" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.3293348" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.3511111" />
+      <window_info anchor="bottom" id="Message" order="10" />
+      <window_info anchor="bottom" id="Find" order="11" weight="0.3288889" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="right" id="Database" order="0" weight="0.09497515" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="some bugs fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="some bugs fixed" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/hadi.c" />
+    <entry file="file://$PROJECT_DIR$/src/‫‪physics.h" />
+    <entry file="file://$PROJECT_DIR$/src/‫‪physics.c" />
+    <entry file="file://$PROJECT_DIR$/cmake_linux.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/math.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-867" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdlib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="85" column="8" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_rect.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2184">
+          <caret line="91" column="11" selection-start-line="91" selection-start-column="11" selection-end-line="91" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/map.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="7" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="26" selection-end-line="8" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/to do list.txt" />
+    <entry file="file://$PROJECT_DIR$/sdl2/sdl2-include/SDL_haptic.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="167" column="19" selection-start-line="167" selection-start-column="19" selection-end-line="167" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/struct.h" />
+    <entry file="file://$PROJECT_DIR$/src/physics.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/images/q_down.bmp" />
+    <entry file="file://$PROJECT_DIR$/src/images/q_up.bmp" />
+    <entry file="file://$PROJECT_DIR$/src/images/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_keyboard.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="49" column="4" selection-start-line="49" selection-start-column="4" selection-end-line="49" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_events.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="92" column="4" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/SDL2/SDL_keycode.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2904">
+          <caret line="121" column="17" selection-start-line="121" selection-start-column="17" selection-end-line="121" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logic.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/map_g.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/s">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/init.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16296">
+          <caret line="679" column="1" selection-start-line="679" selection-start-column="1" selection-end-line="679" selection-end-column="1" />
+          <folding>
+            <element signature="e#163#3367#0" />
+            <element signature="e#3370#3862#0" />
+            <element signature="e#3864#4375#0" />
+            <element signature="e#4389#6690#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/init.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/physics.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/globals_structs_const.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+          <folding>
+            <element signature="e#98#116#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logic.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1992">
+          <caret line="83" column="25" selection-start-line="83" selection-start-column="25" selection-end-line="83" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2520">
+          <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/view.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/map_g.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" lean-forward="true" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

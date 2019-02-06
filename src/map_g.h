@@ -1,0 +1,1 @@
+//// Created by hadi on 12/21/18.//#ifndef BASE_MAP_G_H#define BASE_MAP_G_Hvoid readmap();int mp_gen();#endif //BASE_MAP_G_H

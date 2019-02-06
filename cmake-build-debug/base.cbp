@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="base"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="base">
+				<Option output="/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/base" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 base"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="base/fast">
+				<Option output="/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/base" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/SDL2"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 base/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/src/globals_structs_const.h">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/src/init.c">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/src/init.h">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/src/logic.c">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/src/logic.h">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/src/main.c">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/src/map_g.c">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/src/map_g.h">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/src/physics.c">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/src/physics.h">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/src/view.c">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/src/view.h">
+			<Option target="base"/>
+		</Unit>
+		<Unit filename="/home/hadi/edu/97-1/project/97101156/base/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

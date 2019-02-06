@@ -1,0 +1,3 @@
+/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/CMakeFiles/base.dir
+/home/hadi/edu/97-1/project/97101156/base/cmake-build-debug/CMakeFiles/edit_cache.dir
